@@ -14,7 +14,7 @@
   <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 <link href="css/agency.min.css" rel="stylesheet">
 <style type="text/css">
-  img{height: 300px; width: 400px;}
+  img{height: 100vh; width: 100vw;}
 </style>
 </head>
 <body id="page-top">
